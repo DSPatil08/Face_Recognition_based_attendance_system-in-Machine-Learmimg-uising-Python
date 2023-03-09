@@ -19,3 +19,7 @@ FEATURES:
 
 
 after downloading the files from the Github-repostaory the file of "Trianer" put that file in new folder ande named it as TrainingImageLabel.
+
+
+then, open the main file in any IDLE which supprots the python files in which you can run the file .
+ 
